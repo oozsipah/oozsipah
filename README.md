@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ömer 👋</h1>
+<p align="center"><i>C is my language. Silicon is who I talk to.</i></p>
 
-<!--
-**oozsipah/oozsipah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 About Me
+- 🧠 I like writing low-level C code and working close to hardware  
+- 🛠️ I'm building projects with STM32 using only registers  
+- 🚀 I learn by doing and breaking things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Some Projects
+- [`ft_printf`](https://github.com/oozsipah/ft_printf) – custom printf from scratch  
+- [`minitalk`](https://github.com/oozsipah/Minitalk) – sending messages using Unix signals  
+---
