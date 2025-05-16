@@ -5,7 +5,8 @@
 
 ### 🔧 About Me
 - 🧠 I like writing low-level C code and working close to hardware  
-- 🛠️ I'm building projects with STM32 using only registers  
+- 🛠️ I'm building projects with STM32 using only registers
+- 📍 Currently studying at 42 Türkiye, part of the global 42 Network
 - 🚀 I learn by doing and breaking things
 
 ---
